@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nihan
+Build-Jdk: 15.0.2
+Implementation-Title: cleverweeklyschedular
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.capstoneproject
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cleverweeklyschedular
+Created-By: Maven Integration for Eclipse
+
